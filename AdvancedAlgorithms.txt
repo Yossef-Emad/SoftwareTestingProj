@@ -1,0 +1,12 @@
+Subject Name: Advanced Algorithms		 Max Mark: 100
+Student name 			 Student number 			 GPA 			 Grade
+Daniel William 				 87654328 				 0.0 			 F
+Amanda Grace  				 29765291 				 4.0 			 A+
+Kevin Andrew Scott 				 53428976 				 0.0 			 F
+Omnia Ahmed 				 12345678 				 0.0 			 F
+Alaa Mohamed 				 87654321 				 0.0 			 F
+Hanan Ali 				 87654322 				 0.0 			 F
+Ola Ahmed 				 87654323 				 1.0 			 D
+Just Passing 				 87654324 				 1.0 			 D
+Just Failing 				 87654325 				 0.0 			 F
+Daniel William 				 87654355 				 0.0 			 F
